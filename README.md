@@ -1,4 +1,6 @@
 # An-Approach-for-Peak-Valley-Detection-in-Nonparametric-Regression-Estimation
+## NCCU Master Thesis
+
 偵測曲線峰谷位置是個常見問題，  
 本論文中提出一種偵測方法作為部分節點選取方式，  
 先透過統計檢定方法初步抓取峰谷位置，再利用保序  
